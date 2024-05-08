@@ -1,3 +1,10 @@
+Some screenshots of the website:
+
+![image (2)](https://github.com/dastanhayama/metaverse_app/assets/126918345/335f6f4e-3d7d-4d3a-ac2c-3198c9126016)
+![image (1)](https://github.com/dastanhayama/metaverse_app/assets/126918345/f1cff321-50c0-474d-b26f-21c6e47527a7)
+![image](https://github.com/dastanhayama/metaverse_app/assets/126918345/1019182a-a44d-4ca3-acbc-1e7f921b4550)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
